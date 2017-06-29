@@ -1,2 +1,2 @@
 # singleton
-A simple Singleton implementation
+A simple php Singleton implementation

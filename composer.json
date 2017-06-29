@@ -1,0 +1,17 @@
+{
+  "name": "jover/singleton",
+  "description": "A simple Singleton implementation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joost Vermeulen",
+      "email": "joost@jover.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {"": "src/"}
+  }
+}
