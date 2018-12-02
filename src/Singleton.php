@@ -4,7 +4,7 @@
  * Class Singleton
  *
  * a simple implementation for Singleton classes
- * Classes that extend this calss, can be used as a Singleton
+ * Classes that extend this class, can be used as a Singleton
  *
  */
 class Singleton
